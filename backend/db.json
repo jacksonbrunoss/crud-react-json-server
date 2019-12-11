@@ -1,0 +1,13 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Jackson Bruno Sousa Silva",
+        "email": "oi.jbss@gmail.com" 
+    },
+    {
+        "id": 2,
+        "name": "Marta Rocha Matos",
+        "email": "ola.mrm21@gmail.com"
+    }
+]
+}
