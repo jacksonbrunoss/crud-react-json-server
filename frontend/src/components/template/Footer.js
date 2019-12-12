@@ -2,6 +2,8 @@ import './Footer.css';
 import React from 'react';
 
 export default props =>
-    <footer className="rodape">
-        Rodapé
+    <footer className="footer">
+        <span>
+            Desenvolvido com <i className="fa fa-heart text-danger"></i> por Jackson Bruno.
+        </span>
     </footer>
